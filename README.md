@@ -2,7 +2,7 @@
 An app that connects personal service providers to clients
 This app was built using glide apps, which uses google sheets to construct apps.
 
-![App Screenshot](https://i.imgur.com/8lVbV0a.png)
+![App Screenshot](https://i.imgur.com/rrNlTs3.png)
 
 ## 📕 Description of Problem and Solution
 - Personal service providers and local businesses are finding it harder to market and sell their services, especially with COVID-19
