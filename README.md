@@ -16,10 +16,10 @@ many of the services can be done in person and don't need online transactions. I
 
 ## 👇 Installation
 1. You can open the app in either your browser, or install it on a phone
-2. Go on [this link](https://tasty-mask-4026.glideapp.io/) to visit the app on the browser. Zoom out if the proportions of the app aren't even
-3. To install the app on your phone, scan the qr code which will open the app on the phone browser. If you're using iOS, visit the app link on **safari**, click share and add to home screen. On android, click the install button in the top right and it should install the app to your home screen
-4. You can now play around with the app. The app is just a prototype for a possible app, so the users on the app are just dummy accounts. 
-5. If you want to see the inner workings of the app, sign in/up to glide and follow this [link](https://go.glideapps.com/app/7Q3z2k3EO2AuLC7QxQlj/layout)
+2. Go on [this link](https://tasty-mask-4026.glideapp.io/) to visit the app on the browser. It should display an iPhone screen, you may need to zoom out if the proportions of the app aren't fitting to the screen
+3. To install the app on your phone, scan the qr code which will open the app on the phone browser. If you're using iOS, visit the app link on **safari**, click share and add to home screen. On android, click the install button in the top right of the browser and it should install the app to your home screen
+4. You can now open and play around with the app. The app is just a prototype for a possible app, so the users on the app are just dummy accounts. 
+5. If you want to see the inner workings of the app, sign in/up to glide and follow this [link](https://go.glideapps.com/app/sQMwvFf32jEkY0j00AZG/layout)
 
 ## 📝 Features & Demo
 
@@ -70,3 +70,6 @@ Feel free to follow along by viewing the app in the browser, or installing it on
 - This was a hackathon project, it is not 100% complete and ready for deploying as I did not have enough time to, but I will be sure to add more features and work on improving and hopefully deploying this app in the future
 - Contributers to the project are welcome if you have feature requests or issues, create an issue
 - Creating a fully fledged app in 24 Hours would not have been possible if I didn't use glide apps, especially not alone. It makes making an app much faster and easier, so I could focus more time on the actual idea and solution. 
+
+
+Crafted by Saad S
