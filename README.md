@@ -27,42 +27,42 @@ many of the services can be done in person and don't need online transactions. I
 
 Feel free to follow along by viewing the app in the browser, or installing it on your phone
 
-**1. The accounts tab shows you the personal services you provide. You can add your own services by clicking the plus icon at the top and filling in the form**
+### **1. The accounts tab shows you the personal services you provide. You can add your own services by clicking the plus icon at the top and filling in the form**
 
 ![Accounts](https://imgur.com/y5rylPo.jpg) ![Accounts](https://i.imgur.com/HF77czd.jpg)
 
-**2. The services tab is where you can find service providers. You can click on the photo of the service provider to get more details like their rating, phone number, fee and address. You can also favorite service providers and call/text them directly from the app**
+### **2. The services tab is where you can find service providers. You can click on the photo of the service provider to get more details like their rating, phone number, fee and address. You can also favorite service providers and call/text them directly from the app**
 
 ![Services](https://i.imgur.com/MMFbhdW.jpg) ![Services](https://i.imgur.com/WAFEhu8.jpg)
 
-**3. On the map tab, you can view the locations of the service providers if you are looking for the closest one to where you live. By clicking on the pins, you can get more information about the service provider and you can place an order by calling/texting them**
+### **3. On the map tab, you can view the locations of the service providers if you are looking for the closest one to where you live. By clicking on the pins, you can get more information about the service provider and you can place an order by calling/texting them**
 
 ![Map](https://i.imgur.com/n7IWTUI.jpg)
 
-**4. The chat tab is still a work in progress, but it allows you to chat directly with your service provider to get more details on your order**
+### **4. The chat tab is still a work in progress, but it allows you to chat directly with your service provider to get more details on your order**
 
 ![Chat](https://i.imgur.com/Lw1RBfP.jpg)
 
-**5. On the burger menu, there are more tabs which you can view more details about.**
+### **5. On the burger menu, there are more tabs which you can view more details about.**
 
 ![Menu](https://i.imgur.com/BaqGCXM.jpg)
 
-**6. The "Your Orders" tab inside the burger menu lets you view your previous and current orders and lets you see the progress of the order. It also allows you to place the payment or cancel the order if the progress of the order is less than 10%**
+### **6. The "Your Orders" tab inside the burger menu lets you view your previous and current orders and lets you see the progress of the order. It also allows you to place the payment or cancel the order if the progress of the order is less than 10%**
 
 ![Your Orders](https://i.imgur.com/Gi6p44h.jpg)
 ![Your Orders](https://i.imgur.com/O7BdW0a.jpg)
 
-**7. The "Completed Tasks" menu allows you to view all your previous completed tasks and the details of each task if you are a service provider**
+### **7. The "Completed Tasks" menu allows you to view all your previous completed tasks and the details of each task if you are a service provider**
 
 ![Completed Tasks](https://i.imgur.com/uB2JskP.jpg)
 ![Completed Tasks](https://i.imgur.com/AfyTpx5.jpg)
 
-**8. The "Pending orders" menu allows service providers to view their pending orders details (e.g. the description of the order, the due date, and the payment). This tab also allows the service provider to insert optional files if the service is digital before completing the order. The seller can also adjust the progress of their delivery to notify the client of the progress. Finally, the seller can also cancel the order**
+### **8. The "Pending orders" menu allows service providers to view their pending orders details (e.g. the description of the order, the due date, and the payment). This tab also allows the service provider to insert optional files if the service is digital before completing the order. The seller can also adjust the progress of their delivery to notify the client of the progress. Finally, the seller can also cancel the order**
 
 ![Pending Orders](https://i.imgur.com/JriZv6Y.jpg)
 ![Pending Orders](https://i.imgur.com/NRpfPBP.jpg)
 
-**9. To use the app, the user can sign in by entering their name and email address, they can also sign in with their google account**
+### **9. To use the app, the user can sign in by entering their name and email address, they can also sign in with their google account**
 
 ![Login](https://i.imgur.com/sKmCV8r.jpg)
 ![Login](https://i.imgur.com/qtFjm6x.jpg)
